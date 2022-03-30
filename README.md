@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @felipeefscc
-- 👀 I’m interested in, HTML, CSS and JS
-- 🌱 I’m currently learning, JS
+- 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on all
 - 📫 How to reach me 
 
