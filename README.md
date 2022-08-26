@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @felipeefscc
 - 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate on all
-- 📫 How to reach me 
 
 <!---
 felipeefscc/felipeefscc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
