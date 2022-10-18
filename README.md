@@ -1,5 +1,5 @@
-- Oi,me chamo Felipe Costa, e sou desenvolvedor Full Stack!
-- Desenvolvo em: PHP,JS e Delphi!
+- Oi,me chamo Felipe Costa, e sou desenvolvedor back-end!
+- Desenvolvo em: Node.js, PHP e Object Pascal!
 - Em estudo constante!
 
 <!---
